@@ -3,7 +3,7 @@
 My name is Martin Armenski and I am a computer science student at York University. I enjoy solving problems and building new projects. Feel free to message me at armenskim7@gmail.com or on [LinkedIn](https://www.linkedin.com/in/martin-armenski-2844b7316).
 
 ## I am currently working on:
-- [YorkU Course Helper](https://github.com/ArmenskiDev/YorkU-Course-Helper)
+- [YorkU Course Helper (A small program that helps automate course selection for students. Stil in early development)](https://github.com/ArmenskiDev/YorkU-Course-Helper)
 <!--
 **ArmenskiDev/ArmenskiDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
